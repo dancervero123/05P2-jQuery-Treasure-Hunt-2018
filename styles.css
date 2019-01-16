@@ -1,0 +1,70 @@
+body{
+    text-align:center;
+    background:	#ffcccc;
+    border:dashed;
+}
+
+.pirate{
+    height:200px;
+    width:200px;	
+}
+
+.peak{
+    height:200px;
+    width:200px;
+    display:none;
+}
+
+button{
+    display:none;
+    color:#ffcccc;
+}
+
+.clueOne{
+    display:none;
+}
+
+.fish{
+    display:none;
+}
+.wind{
+    display:none;
+    }
+.clueTwo{
+    display:none;
+}
+
+.wind{
+    display:none;
+}
+
+.clueThree{
+    display:none;
+    width:200px;
+}
+
+.measure{
+    display:none;
+}
+
+.clueFour{
+    display:none;
+    width:200px;
+}
+
+.treasure{
+    display:none;
+}
+
+.treasureFound{
+    display:none;
+    width:200px;
+}
+
+.secret{
+    display:none;
+}
+
+.secretMap{
+    display:none;
+}
