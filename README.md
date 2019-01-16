@@ -1,1 +1,0 @@
-# 05P2-jQuery-Treasure-Hunt-2018
